@@ -1,0 +1,36 @@
+#h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  border: 20px solid rgb(0, 21, 255);
+  border-radius: 3px;
+  padding: 30px 163px 30px 0px;
+  padding-left: 163px;
+  margin: 10px 900px 10px 10px;
+}
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  border: 20px solid rgb(7, 11, 57);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px 500px;
+}
+#p3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  border: 15px dotted red;
+  border-radius: 3px;
+  border-color: black rgb(34, 0, 255) rgb(73, 7, 56) rgb(6, 116, 30);
+  margin: 10px 460px 10px 300px;
+}
+#p4 {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: scroll;
+  font-size: 35px;
+  border: 15px double;
+  border-color: rgb(102, 255, 0) rgb(255, 0, 183) red rgb(0, 0, 255);
+  margin: 10px 300px 10px 300px;
+  max-width: 600px;
+  max-height: 300px;
+  
+}

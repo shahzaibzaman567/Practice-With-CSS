@@ -1,0 +1,50 @@
+
+#logo1 {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  bottom: 1px;
+  z-index: 10;
+  background-color:rgb(255, 87, 87);
+  width: 150px;
+
+}
+
+#logo2{
+  position: sticky;
+  top: 0%;
+  left:0%;
+  color: red;
+  
+  
+       z-index: 20;
+}
+#card2 {
+  position: relative;
+  margin-top: 0px;
+  margin-right: 700px;
+  z-index: 3;
+  /* left: 50px; */
+  /* padding: 200px; */
+  /* margin-left: 10px; */
+}#card1 {
+  position: relative;
+  margin-right: 700px;
+ }
+ button{
+  position: fixed;
+  left: 1310px;
+  top: 700px;
+  background-color: blue;
+  color: white;
+  height:30px;
+ }
+ a{
+ padding: 15px;
+  color: azure
+ }
+ /* #cards1{
+  background-color: aquamarine;
+  height: 3333px;
+ } */
+ 

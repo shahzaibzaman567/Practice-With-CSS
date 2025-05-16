@@ -1,0 +1,105 @@
+
+        th,td{
+            border: 2px solid;
+            background-color: rgb(244, 244, 255);
+        } 
+             td,th{
+                  padding: 20px;
+                /* background-color: rgb(202, 150, 250); */
+                }
+
+       td:hover{
+            background-color: rgb(215, 172, 254);
+
+        }          
+   th:hover{
+            background-color: rgb(215, 172, 254);
+
+        }
+
+        #table1{
+            margin-right: 20px;
+            margin-left: 20px;
+           empty-cells:hide;
+           display: inline-block;
+           border-collapse: collapse;
+           /* height: 100px;
+           width: 100px; */
+        }
+
+        #table2{
+            margin-left: 80px;
+            empty-cells: show;
+            border-spacing: 9px 6px;
+            display: inline-block;
+            /* height: 70px;
+           width: 40px; */
+        }
+     /* page9  
+    page9  
+    page9  
+    page9  
+        */
+      form{
+        /* text-align: center; */
+        margin-left: 10px;
+      }
+       #name{
+        /* display: block; */
+        /* float: right; */
+        margin: 10px;
+        padding: 13px 12px 13px 37px;
+        /* padding-top: 11px; */
+        /* padding-right: 13px; */
+        margin-left: 49px;
+        text-align: left;
+       }
+       .button
+       {
+        border-radius: 40%;
+        padding: 8px;
+        font-size: 20px;
+        /* text-align: right; */
+        margin-left: 200px;
+        background-color: rgb(208, 208, 208);
+        color: rgb(38, 0, 255);
+        cursor: move;
+        box-shadow: 9px 9px 9px rgb(154, 157, 158);
+       }
+       #email{
+        /* padding-right: 8px; */
+        padding: 13px 18px 13px 32px ;
+        /* padding-left: 18px; */
+        margin:10px;
+        margin-left: 50px;
+
+
+       }
+       .title{
+         
+            /* float: left; */
+            width: 100px;
+            text-align: right;
+            padding-right: 50px;
+            /* padding-left: 5px; */
+            margin-left: -10px;
+            cursor: auto;
+       }
+       #textarea{
+        vertical-align: top;
+        /* padding-left: 30px; */
+        margin-left: 30px;
+        /* margin-left: 20; */
+        cursor: wait;
+       }
+      
+/*      
+       auto
+       crosshair
+       default
+       pointer
+       move
+       text
+       wait
+       help
+       url("cursor.gif"); */

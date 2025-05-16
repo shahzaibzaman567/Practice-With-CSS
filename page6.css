@@ -1,0 +1,58 @@
+body{
+    /* background-image:url(../../images/markhor.jpg) ; */
+    /* background-repeat: no-repeat; */
+}
+ul{
+    background-color: rgba(80, 50, 58, 0.584);
+
+    max-height: 200px;
+}
+li{ 
+    font-family: fantasy;
+    font-size: 40px;
+    /* word-spacing: 15px; */
+    margin-right: 15px;
+    display: inline-block;
+    border: 5px solid;
+    border-image: url("../../images/gif\ image.gif")11  stretch;
+    color: rgb(255, 255, 255) ;
+    background-color: rgba(80, 50, 58, 0.584);
+
+
+}
+#logo{
+    margin-right:260px ;
+    display: inline-block;
+    visibility: visible;
+    border: 9px solid;
+    background-color: rgba(69, 44, 44, 0.618);
+    /* background-repeat: no-repeat ; */
+    border-image: url("../../images/gif\ image.gif")
+    11  stretch;
+     
+}
+img{
+    background-image: url(../../images/gif\ image.gif);
+    margin: 0px 540px;
+    border-radius: 50%;
+    box-shadow: 7px 7px 7px  rgb(148, 70, 70);
+
+}    
+
+p[class="p"]{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        font-style: italic;
+        /* display: inline; */
+        text-decoration: underline;
+        border:5px solid ;
+        border-radius: 10px 10px;
+        padding: 10px 30px;
+        /* padding-top: 5; */
+        margin: 40px 380px;
+        margin-right: 430px;
+        background-color: rgba(80, 50, 58, 0.584);
+        box-shadow:  15px 15px 15px  #826161; ;
+        color: black;
+
+}
